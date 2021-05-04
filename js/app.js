@@ -6,6 +6,7 @@ var btn = document.getElementById("myBtn");
 
 // Get the <span> element that closes the modal
 //comentario de prueba
+//Otro comentario adicional
 var span = document.getElementsByClassName("close")[0];
 
 // When the user clicks on the button, open the modal
